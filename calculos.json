@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "calculo": "dividir",
+        "operacion": "24 / 2"
+    }
+]
